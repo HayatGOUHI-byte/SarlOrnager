@@ -1,4 +1,5 @@
 La mise en place d’un site web E-commerce 🛒💻.
+---
 – Technologies : WordPress 📝, TC plugin 🔌, iThemes Security 🛡️, Yoast SEO 🚀.
 
 
